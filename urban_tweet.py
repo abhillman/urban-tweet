@@ -12,7 +12,6 @@ import random
 import logging
 
 # Library Imports
-sys.path.insert(0, 'libs')  # Use local libs to skirt inability to install packages on GAE
 import twitter
 import httplib2
 from bs4 import BeautifulSoup
