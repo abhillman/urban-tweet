@@ -8,4 +8,9 @@ secrets before use.
 
 Example: https://twitter.com/Horse_ebookz
 
+Dependencies are:
+- httplib2 for downloading from Urban Dictionary
+- bs4 for parsing HTML documents from Urban Dictionary
+- twitter (i.e. python-twitter) for posting to twitter
+
 Aryeh Hillman (c) 2014
